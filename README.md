@@ -8,11 +8,11 @@ Before you can run this client, you will need to be running the server side whic
 
 
 ## Clone from repository
-```git clone [a link ](https://github.com/lighthouse-labs/snek-multiplayer.git)
-cd snek-multiplayer```
+git clone [a link ](https://github.com/lighthouse-labs/snek-multiplayer.git)
+cd snek-multiplayer
 
 ## Acknowledgements
-- This project was not built from scratch. It was inspired and started from snek (blog post). Tania Rascia is the original author. 
+- This project was not built from scratch. It was inspired and started from [link](snek). [link](https://github.com/taniarascia) is the original author. 
 
 
 ## Getting Started
