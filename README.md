@@ -8,7 +8,7 @@ Before you can run this client, you will need to be running the server side whic
 
 
 ## Clone from repository
-```git clone [https://github.com/lighthouse-labs/snek-multiplayer.git]```
+```git clone [link](https://github.com/lighthouse-labs/snek-multiplayer.git)```
 ```cd snek-multiplayer```
 
 ## Acknowledgements
