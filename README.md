@@ -15,6 +15,19 @@ Before you can run this client, you will need to be running the server side whic
 ## Acknowledgements
 ```- This project was not built from scratch. It was inspired and started from [snek]. [https://github.com/taniarascia] is the original author.``` 
 
+## Rules
+
+# Get your snake to move -
+We have implemented the WASD to make the snake move.
+
+* w - moves up
+* a - moves left
+* s - moves down 
+* d - moves Right
+
+## Keys that send canned messages -
+* use h to say ``` Hello ```
+* use b to say ``` Bye bye ```
 
 ## Getting Started
 
